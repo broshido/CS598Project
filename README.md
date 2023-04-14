@@ -16,12 +16,19 @@ Not available
 
 
 **Dependencies**
+
 -Google Colab
+
 -Keras
+
 -TensorFlow
+
 -Pandas
+
 -Numpy
+
 -Io
+
 -sklearn
 
 **Data download instruction**
