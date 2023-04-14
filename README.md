@@ -38,6 +38,6 @@ A Pretrained model is not applicable for this project. Place the project.py file
 
 
 **Table of results (no need to include additional experiments, but main reproducibility result should be included)**
-
+Available as PNGs in this repository
 
 
