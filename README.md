@@ -56,4 +56,5 @@ A Pretrained model is not applicable for this project. Place the project.py file
 
 Available as PNGs in this repository
 
-
+**Link to the Notebook Bonus**
+https://colab.research.google.com/drive/1-oxNl76ZaGgINkLAKeYpO9LRd4hv-241?usp=sharing
